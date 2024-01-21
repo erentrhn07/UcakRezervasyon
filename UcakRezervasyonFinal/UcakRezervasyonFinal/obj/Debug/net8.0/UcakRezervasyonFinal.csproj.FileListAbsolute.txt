@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\UcakRezervasyonFinal\UcakRezervasyonFinal\bin\Debug\net8.0\UcakRezervasyonFinal.exe
+C:\Users\HP\source\repos\UcakRezervasyonFinal\UcakRezervasyonFinal\bin\Debug\net8.0\UcakRezervasyonFinal.deps.json
+C:\Users\HP\source\repos\UcakRezervasyonFinal\UcakRezervasyonFinal\bin\Debug\net8.0\UcakRezervasyonFinal.runtimeconfig.json
+C:\Users\HP\source\repos\UcakRezervasyonFinal\UcakRezervasyonFinal\bin\Debug\net8.0\UcakRezervasyonFinal.dll
+C:\Users\HP\source\repos\UcakRezervasyonFinal\UcakRezervasyonFinal\bin\Debug\net8.0\UcakRezervasyonFinal.pdb
+C:\Users\HP\source\repos\UcakRezervasyonFinal\UcakRezervasyonFinal\obj\Debug\net8.0\UcakRezervasyonFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\UcakRezervasyonFinal\UcakRezervasyonFinal\obj\Debug\net8.0\UcakRezervasyonFinal.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\UcakRezervasyonFinal\UcakRezervasyonFinal\obj\Debug\net8.0\UcakRezervasyonFinal.AssemblyInfo.cs
+C:\Users\HP\source\repos\UcakRezervasyonFinal\UcakRezervasyonFinal\obj\Debug\net8.0\UcakRezervasyonFinal.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\UcakRezervasyonFinal\UcakRezervasyonFinal\obj\Debug\net8.0\UcakRezervasyonFinal.dll
+C:\Users\HP\source\repos\UcakRezervasyonFinal\UcakRezervasyonFinal\obj\Debug\net8.0\refint\UcakRezervasyonFinal.dll
+C:\Users\HP\source\repos\UcakRezervasyonFinal\UcakRezervasyonFinal\obj\Debug\net8.0\UcakRezervasyonFinal.pdb
+C:\Users\HP\source\repos\UcakRezervasyonFinal\UcakRezervasyonFinal\obj\Debug\net8.0\UcakRezervasyonFinal.genruntimeconfig.cache
+C:\Users\HP\source\repos\UcakRezervasyonFinal\UcakRezervasyonFinal\obj\Debug\net8.0\ref\UcakRezervasyonFinal.dll

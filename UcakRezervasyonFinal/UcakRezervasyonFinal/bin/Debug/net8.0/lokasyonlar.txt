@@ -1,0 +1,13 @@
+İngiltere,Newcastle,Newcastle Havaalanı
+Almanya,Münih,Münih Havaalanı
+Kanada,Toronto,New Brunswick Havaalanı
+BAE,Abu Dhabi,Abu Dhabi Havaalanı
+Singapur,Changi,Jewel Changi Havaalanı
+ABD,Los Angeles,Los Angeles Uluslararası Havaalanı
+İspanya,Barcelona,Barcelona Havaalanı
+Arjantin,Buenos Aires,Ministro Pistarini Havaalanı
+İsviçre,Zürih,Zürih Havaalanı
+İtalya,Roma,Fiumicino Havaalanı
+Türkiye,İzmir,Adnan Menderes Havaalanı
+Yunanistan,Atina,Elefterios Venizelos Havaalanı
+Hollanda,Amsterdam,Schiphol Havaalanı
